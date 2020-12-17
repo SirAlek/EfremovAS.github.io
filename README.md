@@ -1,5 +1,4 @@
-# Отчет о лабораторных работах
-# студент группы [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/List-IDB-17-07) Ефремов А.С.
+# Студент группы [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/List-IDB-17-07) Ефремов А.С.
 
 ## Отчёт по лабораторным работам [1 - 3](https://github.com/SirAlek/EfremovAS.github.io.wiki.git)
 
