@@ -3,7 +3,7 @@
 
 ## Отчёт по лабораторным работам [1 - 3](https://github.com/SirAlek/EfremovAS.github.io.wiki.git)
 
-## Отчёт по лабораторным работам [4 - 6](https://github.com/SirAlek/EfremovAS.github.io.wiki.git)
+## Отчёт по лабораторным работам [4 - 6](https://github.com/SirAlek/EfremovAS.github.io/wiki/%D0%9B%D1%80-4-5)
 
 ## Домашнее задание по семинарам 1 и 2
 
